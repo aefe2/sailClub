@@ -58,6 +58,77 @@ a {
     line-height: 24px;
 }
 
+.post h2 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+    text-decoration: underline;
+    text-decoration-color: #00c6bd;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 15px;
+    text-underline-position: under;
+}
+
+.post-img-caption {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #8693A4;
+}
+
+.post-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+}
+
+.post-text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.post-text span {
+    text-decoration: line-through;
+}
+
+.post-subtitle {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.post-team {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.post-quote-text {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 36px;
+}
+
+.post-note {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.author-name {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.author-date {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #8693A4;
+}
+
 .contacts h2 {
     font-weight: 700;
     font-size: 24px;
